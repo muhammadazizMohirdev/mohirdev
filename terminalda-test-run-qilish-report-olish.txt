@@ -1,0 +1,6 @@
+1.   pytest -v -s --alluredir="./reports"
+2.   allure serve "./reports"
+
+Ta'rifi:
+1. barcha test_* nomli fayllardagi test_* nomli funksiyalarni run qilish va "reports" nomli 
+2. reportni chrome browserda ko'rish
