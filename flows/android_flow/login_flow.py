@@ -32,3 +32,7 @@ class LoginFlow(AndroidBaseFlow):
         assert self.welcome_screen.is_dear_user_message_appear()
         return True
         time.sleep(2)
+
+
+    def my_changes(self):
+        pass
