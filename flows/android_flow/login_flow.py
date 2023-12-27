@@ -34,5 +34,5 @@ class LoginFlow(AndroidBaseFlow):
         time.sleep(2)
 
 
-    def my_changes(self):
+    def my_changestest(self):
         pass
