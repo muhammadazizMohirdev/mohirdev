@@ -16,7 +16,7 @@ class Screen:
         self.driver = driver
 
     def new_changes(self):
-        pass
+        print("new changes")
 
     # def check_platform_version(self):
     #     if self.driver.capabilities["platformVersion"] == "10.0":
